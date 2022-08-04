@@ -9,19 +9,17 @@
 
 # YOU DO the rest:
 
-
+#Checks string to see if "Hello" is present (true)
 "Hello World".include?("Hello")
 
-
+#Checks string to if it ends with "Hello" (false)
 "Hello World".end_with?("Hello")
 
-
+#Checks string to if it ends with "rld" (true)
 "Hello World".end_with?("rld")
 
-
+#Checks to see if number is even (true)
 12.even?
 
-
+#Prints next number (19)
 18.next
-
-
