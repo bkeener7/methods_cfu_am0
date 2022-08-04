@@ -33,4 +33,4 @@ p user_name.delete!("coco")
 p last_login.clear
 
 # 2: Do some research (either testing out with your own code or Googling) to build an understanding of what the `!` does, when at the end of a method name. Show your understading by providing an example and writing an explanation.
-#the exclamation mark known as a "bang" makes whatever modifier you are using permanent
+## the exclamation mark known as a "bang" makes whatever modifier you are using change the orginal variable
